@@ -149,7 +149,7 @@ Many local Rwandan fashion businesses lack an affordable, professional online pr
 
 ## 8. GitHub Repository Link
 
-> **https://github.com/uwamahorohyguette/fashion-shop-modern**
+> **https://github.com/uwamahorohyguette-12/fashion-shop-modern**
 
 ---
 
