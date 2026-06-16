@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', '/fashion-shop-modern');
+define('BASE_URL', '');
 define('SITE_NAME', 'KigaliThreads');
 
 function url(string $path = ''): string

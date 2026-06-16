@@ -1,9 +1,9 @@
 <?php
 
-$dbHost = 'localhost';
-$dbName = 'fashion_shop';
-$dbUser = 'root';
-$dbPass = '';
+$dbHost = 'sql310.infinityfree.com';
+$dbName = 'if0_42195796_fashion_shop';
+$dbUser = 'if0_42195796';
+$dbPass = 'LWIEvVzS0jVU1';
 
 try {
     $pdo = new PDO(
