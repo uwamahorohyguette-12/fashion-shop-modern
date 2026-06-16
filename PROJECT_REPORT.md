@@ -179,46 +179,46 @@ Customer Places Order
 ## 7. Screenshots
 
 ### Homepage
-![Home Page](screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/home.png)
 
 ### Product Listing Page
-![Product Listing](screenshots/product.png)
+![Product Listing](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/product.png)
 
 ### Product Details Page
-![Product Details](screenshots/product-details.png)
+![Product Details](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/product-details.png)
 
 ### Shopping Cart
-![Shopping Cart](screenshots/shopping-cart.png)
+![Shopping Cart](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/shopping-cart.png)
 
 ### Checkout Page
-![Checkout](screenshots/checkout.png)
+![Checkout](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/checkout.png)
 
 ### Order Confirmation Page
-![Order Confirmation](screenshots/order-confirmation.png)
+![Order Confirmation](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/order-confirmation.png)
 
 ### Order Tracking Page
-![Order Tracking](screenshots/tracking.png)
+![Order Tracking](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/tracking.png)
 
 ### Receipt Page
-![Receipt](screenshots/receipt.png)
+![Receipt](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/receipt.png)
 
 ### My Account Page
-![My Account](screenshots/MyAccount.png)
+![My Account](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/MyAccount.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Admindashboard.png)
+![Admin Dashboard](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/Admindashboard.png)
 
 ### Admin Products
-![Admin Products](screenshots/Adminproducts.png)
+![Admin Products](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/Adminproducts.png)
 
 ### Admin Orders
-![Admin Orders](screenshots/AdminOrder.png)
+![Admin Orders](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/AdminOrder.png)
 
 ### GitHub Repository
-![GitHub Repository](screenshots/GitHubrepository.png)
+![GitHub Repository](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/GitHubrepository.png)
 
 ### CI/CD Pipeline
-![CI/CD Pipeline](screenshots/ci-cd.png)
+![CI/CD Pipeline](https://raw.githubusercontent.com/uwamahorohyguette-12/fashion-shop-modern/main/screenshots/ci-cd.png)
 
 ---
 
