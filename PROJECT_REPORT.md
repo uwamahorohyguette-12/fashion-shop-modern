@@ -178,22 +178,47 @@ Customer Places Order
 
 ## 7. Screenshots
 
-> *(Insert screenshots of the following pages in the final submitted document)*
+### Homepage
+![Home Page](screenshots/home.png)
 
-1. Homepage — hero banner and featured collections
-2. Product listing page — category grid
-3. Product detail page — with size variants
-4. Shopping cart — with items and total
-5. Checkout page — customer details and MTN MoMo input
-6. Order confirmation — status tracker and Order ID
-7. Order tracking page — public search form and timeline
-8. Printable receipt — branded with itemized total
-9. My Account — order history with Track and Receipt buttons
-10. Admin dashboard — statistics overview
-11. Admin products — add/edit form with Upload and URL tabs
-12. Admin orders — order detail with status update
-13. GitHub repository — code and commit history
-14. GitHub Actions — CI/CD pipeline successful run
+### Product Listing Page
+![Product Listing](screenshots/product.png)
+
+### Product Details Page
+![Product Details](screenshots/product-details.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/shopping-cart.png)
+
+### Checkout Page
+![Checkout](screenshots/checkout.png)
+
+### Order Confirmation Page
+![Order Confirmation](screenshots/order-confirmation.png)
+
+### Order Tracking Page
+![Order Tracking](screenshots/tracking.png)
+
+### Receipt Page
+![Receipt](screenshots/receipt.png)
+
+### My Account Page
+![My Account](screenshots/MyAccount.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/Admindashboard.png)
+
+### Admin Products
+![Admin Products](screenshots/Adminproducts.png)
+
+### Admin Orders
+![Admin Orders](screenshots/AdminOrder.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/GitHubrepository.png)
+
+### CI/CD Pipeline
+![CI/CD Pipeline](screenshots/ci-cd.png)
 
 ---
 
